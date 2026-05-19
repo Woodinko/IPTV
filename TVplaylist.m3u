@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ČT1.HD.sk" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="České" tvg-name="ČT1 HD",ČT1 HD
-http://212.102.38.45/live/ct1_ts/index.m3u8
-#EXTINF:-1 tvg-id="ČT2.HD.sk" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct2hd.png" group-title="České" tvg-name="ČT2 HD",ČT2 HD
-http://212.102.38.45/live/ct2_ts/index.m3u8
-#EXTINF:-1 tvg-id="ČT24.HD.sk" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct24hd.png" group-title="České" tvg-name="ČT24 HD",ČT24 HD
-http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
